@@ -1,0 +1,9 @@
+Predicting activity attendance in event-based social networks: content, context and social influence 2014
+
+
+Links:
+
+https://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/
+https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+https://www.quora.com/How-does-LinkedIns-recommendation-system-work
+https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
