@@ -8,3 +8,5 @@ https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c8
 https://www.quora.com/How-does-LinkedIns-recommendation-system-work
 https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
 https://muffynomster.wordpress.com/2015/06/07/building-a-movie-recommendation-engine-with-r/
+https://stats.stackexchange.com/questions/62069/anomaly-detection-with-dummy-features-and-other-discrete-categorical-features
+http://sdsawtelle.github.io/blog/output/week9-anomaly-andrew-ng-machine-learning-with-python.html
